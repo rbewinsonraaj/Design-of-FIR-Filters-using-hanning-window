@@ -42,7 +42,7 @@ ylabel('Magnitude');
 title('Frequency Response of Low Pass FIR Filter');
 ```
 
-# OUTPUT
+# OUTPUT 
 
 <img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/dd635f49-7bfd-4eef-a6c0-e5f28156d5f3" />
 
